@@ -9,6 +9,8 @@
 
     <com.example.drawapp.DrawView
         android:id="@+id/draw_view"
+        android:layout_margin="7dp"
+        android:background="@drawable/bg_draw_view"
         android:layout_height="0dp"
         android:layout_width="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
